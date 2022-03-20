@@ -6,7 +6,8 @@
 ## Banco de Dados
 Repositório destinado ao armazenamento de materiais, exercícios e trabalhos da disciplina de **Bancos de Dados** do curso de Tecnologia em Análise e Desenvolvimento de Sistenas do IFRS Campus Rio Grande.
 
-Listas de exercícios: [bd2022_1sem](https://github.com/IgorAvilaPereira/bd2022_1sem/wiki/Listas). 
+Listas de exercícios: [bd2022_1sem](https://github.com/IgorAvilaPereira/bd2022_1sem/wiki/Listas).
+
 Conteúdo da cadeira: 
   - [Introdução ao Estudo de Banco de Dados](https://github.com/IgorAvilaPereira/bd2022_1sem/blob/main/1ntroducao.md)
   - [Modelo Conceitual: Diagrama Entidade-Relacionamento (ER)](https://github.com/IgorAvilaPereira/bd2022_1sem/blob/main/2introducao-er.md)
