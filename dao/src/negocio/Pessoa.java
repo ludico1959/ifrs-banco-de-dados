@@ -1,9 +1,18 @@
-package app.packages.negocio;
+package src.negocio;
 
 public class Pessoa {
   private int id;
   private String cpf;
   private String nome;
+
+  public Pessoa(String cpf, String nome) {
+    this.cpf = cpf;
+    this.nome = nome;
+  }
+
+  public Pessoa() {
+
+  }
 
   public int getId() {
     return this.id;
@@ -28,5 +37,4 @@ public class Pessoa {
   public void setNome(String nome) {
     this.nome = nome;
   }
-
 }
